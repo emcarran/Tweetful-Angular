@@ -213,3 +213,7 @@ table.stats td:first-child {
     padding-left: 30px;
     box-sizing: border-box;
 }
+
+footer {
+    text-align: center;
+}
